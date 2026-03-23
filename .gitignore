@@ -3,3 +3,4 @@
 .DS_Store
 simulink_cache.xml
 *.mat
+slprj/
