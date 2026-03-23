@@ -1,0 +1,5 @@
+*.slxc
+*slx.autosave
+.DS_Store
+simulink_cache.xml
+*.mat
